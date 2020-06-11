@@ -6,7 +6,7 @@ The aim with this project is to fully take advantage of the Run-Ahead feature in
 
 All Games will use the lowest frame delay action for the basis of it's Run-Ahead Frames.
 
-What this means is that if for example when hitting the A Button in a game the frames before this action shows on the screen is 3 Frames but when hitting the B Button in the same game the frames before this action shows on the screen is 2 Frames, we will set the run_ahead_frames = 2.
+What this means is that if for example when hitting the A Button in a game the frames before this action shows on the screen is 3 Frames, but when hitting the B Button in the same game the frames before this action shows on the screen is 2 Frames, we will set the run_ahead_frames = 2.
 
 All Presets Default to having the following settings
 
