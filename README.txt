@@ -1,10 +1,10 @@
-# RetroArch-Run-Ahead-Overrides
+RetroArch-Run-Ahead-Overrides
 
 These are Run-Ahead By Game Overrides for RetroArch
 
 All Presets Default to having the following settings
 
-run_ahead_enabled = true<br>
+run_ahead_enabled = true
 run_ahead_secondary_instance = true
 
 Note:
