@@ -6,12 +6,12 @@ The aim with this project is to fully take advantage of the Run-Ahead feature in
 
 All Games will use the lowest frame delay action for the basis of it's Run-Ahead Frames.
 
-What this means is that if for example when hitting the A Button in a game the frames before this action shows on the screen is 3 Frames, but when hitting the B Button in the same game the frames before this action shows on the screen is 2 Frames, we will set the run_ahead_frames = 2.
+What this means is that if for example when hitting the A Button in a game the frames before this action shows on the screen is 3 Frames, but when hitting the B Button in the same game the frames before this action shows on the screen is 2 Frames, we will set the run_ahead_frames = "2".
 
 All Presets Default to having the following settings
 
-run_ahead_enabled = true<br>
-run_ahead_secondary_instance = true
+run_ahead_enabled = "true"<br>
+run_ahead_secondary_instance = "true"
 
 Note:
 Run-Ahead Secondary Instance may cause performance issues on certain systems so toggle off if needed. The reason behind keeping the run_ahead_secondary_instance = true is because with out it set it can cause audio issues.
