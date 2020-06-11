@@ -18,7 +18,7 @@ example: /config/Snes9x/
 
 If you do not have the override directory you will have to make one to match the core first
 
-Override Files for Cores Currently Provided:
+Override Files for Cores Currently Provided:<br>
 Snes9x
 
 Configuration Files Should work for any core however you will need to name the folder appropriately
